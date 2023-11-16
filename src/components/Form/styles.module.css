@@ -1,0 +1,55 @@
+.form {
+    padding: 64px 0px;
+    width: 100%;
+    max-width: 1584px;
+    background-color: #fff;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+}
+
+.text__content {
+    display: flex;
+    flex-direction: column;
+    padding: 42px 0px 42px 162px;
+    gap: 30px;
+}
+
+.title {
+    color: #000;
+    font-family: Poppins;
+    font-size: 46px;
+    font-weight: 500;
+    line-height: 57px;
+    text-align: left;
+}
+
+.paragraphe {
+    color: #5C5C5C;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px; /* 150% */
+    text-align: left;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 8px
+}    
+
+.image {
+    padding: 10px 164px 10px 0px;
+}
+
+.input_content {
+    padding-left: 162px;
+    display: flex;
+    justify-content: column;
+    align-items: end;
+    gap: 16px
+}
